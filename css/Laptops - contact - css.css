@@ -1,0 +1,9 @@
+.breadcrumb{
+	margin-top: 10px;
+	margin-bottom: 0;
+	background-color: #e3f2fd;
+}
+
+.contact hr{margin-bottom: 40px; width: 180px; margin-left: 50; color: #D33352; border: 2px solid #D33352;}
+
+.contact .btn-outline-light{margin-top: 20px;}

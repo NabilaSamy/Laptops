@@ -1,0 +1,18 @@
+.breadcrumb{
+	margin-top: 10px;
+	margin-bottom: 0;
+	background-color: #e3f2fd;
+}
+
+.faq{padding: 40px 0 20px;}
+
+.faq h1{font-size: 60px; font-weight: bold;}
+
+.faq hr{margin-bottom: 40px; width: 850px; margin-left: 50; color: #D33352; border: 2px solid #D33352;}
+
+
+.faq .faq_p{font-size: 30px;}
+
+.faq_questions{margin-bottom: 40px;}
+
+.faq_questions .card{cursor: pointer;}
